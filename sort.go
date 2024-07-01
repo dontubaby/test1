@@ -12,6 +12,7 @@ func init() {
 	rand.Seed(time.Now().UnixNano())
 }
 
+// add additional changes for new commit version 2
 // BUBBLE SORT
 func bubbleSort(ar []int) {
 	l := len(ar)
