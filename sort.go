@@ -26,6 +26,7 @@ func bubbleSort(ar []int) {
 
 }
 
+// add  changes for REMOTE
 // SELECTION SORT
 func selectionSort(ar []int) []int {
 	l := len(ar)
